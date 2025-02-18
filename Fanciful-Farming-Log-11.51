@@ -1,0 +1,286 @@
+[11:43:09] [main/INFO]: Loading Minecraft 1.19.2 with Fabric Loader 0.16.10
+[11:43:09] [ForkJoinPool-1-worker-3/WARN]: Mod cpm uses the version 0.6.19b which isn't compatible with Loader's extended semantic version format (Could not parse version number component '19b'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[11:43:09] [ForkJoinPool-1-worker-5/WARN]: Mod oceansdelight uses the version fabric-1.0.2-1.19.2 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'fabric'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[11:43:09] [main/INFO]: Loading 205 mods:
+	- addonslib 1.19-1.3
+	- ambientsounds 5.2.13
+	- appleskin 2.5.1+mc1.19
+	- architectury 6.6.92
+	- bcc 2.0.2-build.16+mc1.19.1
+	- bellsandwhistles 0.4.4
+	- bettercombat 1.7.1+1.19
+	- bookshelf 16.3.20
+	- cancelblockupdate 1.19.2-1.1.2
+	- carryon 2.1.2.23
+	- chipped 2.1.5
+	- cloth-config 8.3.134
+	   \-- cloth-basic-math 0.6.1
+	- copycats 2.2.0+mc.1.19.2-fabric
+	- corgilib 1.0.0.34
+	   |-- com_electronwill_night-config_core 3.6.6
+	   \-- com_electronwill_night-config_toml 3.6.6
+	- coroutil 1.19.2-1.3.6
+	- cpm 0.6.19b
+	- create 0.5.1-f-build.1416+mc1.19.2
+	   |-- com_google_code_findbugs_jsr305 3.0.2
+	   |-- flywheel 0.6.10-8
+	   |-- forge_tags 3.0
+	   |-- milk 1.0.51
+	   |    \-- dripstone_fluid_lib 2.0.1
+	   |-- porting_lib_accessors 2.1.1305+1.19.2
+	   |-- porting_lib_base 2.1.1305+1.19.2
+	   |    |-- mm 2.3
+	   |    |-- porting_lib_attributes 2.1.1305+1.19.2
+	   |    |-- porting_lib_common 2.1.1305+1.19.2
+	   |    |-- porting_lib_constants 2.1.1305+1.19.2
+	   |    |-- porting_lib_lazy_registration 2.1.1305+1.19.2
+	   |    |-- porting_lib_loot 2.1.1305+1.19.2
+	   |    |-- porting_lib_model_generators 2.1.1305+1.19.2
+	   |    |-- porting_lib_model_loader 2.1.1305+1.19.2
+	   |    \-- porting_lib_models 2.1.1305+1.19.2
+	   |-- porting_lib_entity 2.1.1305+1.19.2
+	   |    \-- porting_lib_constants 2.1.1305+1.19.2
+	   |-- porting_lib_extensions 2.1.1305+1.19.2
+	   |    |-- porting_lib_attributes 2.1.1305+1.19.2
+	   |    |-- porting_lib_common 2.1.1305+1.19.2
+	   |    \-- porting_lib_constants 2.1.1305+1.19.2
+	   |-- porting_lib_fake_players 2.1.1305+1.19.2
+	   |-- porting_lib_networking 2.1.1305+1.19.2
+	   |-- porting_lib_obj_loader 2.1.1305+1.19.2
+	   |    |-- porting_lib_attributes 2.1.1305+1.19.2
+	   |    |-- porting_lib_common 2.1.1305+1.19.2
+	   |    |-- porting_lib_constants 2.1.1305+1.19.2
+	   |    \-- porting_lib_model_loader 2.1.1305+1.19.2
+	   |-- porting_lib_transfer 2.1.1305+1.19.2
+	   |    |-- porting_lib_attributes 2.1.1305+1.19.2
+	   |    |-- porting_lib_common 2.1.1305+1.19.2
+	   |    \-- porting_lib_constants 2.1.1305+1.19.2
+	   |-- reach-entity-attributes 2.3.0
+	   \-- registrate-fabric 1.1.58-MC1.19.2
+	- create_copper_and_zinc 1.6.0
+	- create_deco_casing 3.0.0
+	- create_jetpack_curios 1.2.0
+	- createdynlight 1.0.0
+	- createendertransmission 2.0.6-1.19.2-fabric
+	- creativecore 2.9.3
+	- creeperoverhaul 2.0.9
+	- ctm 1.0.1+1.19
+	- deeperdarker 1.2.5
+	   \-- customportalapi 0.0.1-beta63-1.19.X
+	- enchdesc 13.0.14
+	- ends_delight 1.19.2-2.0
+	- entityculling 1.6.1-mc1.19.2
+	- essential-container 1.0.0
+	   \-- essential-loader 1.2.3
+	- estrogen 4.1.1+1.19.2-fabric
+	   \-- jukeboxfix 1.0.0
+	- expandeddelight 0.2.5.2
+	- extraorigins 1.19-2
+	- fabric-api 0.77.0+1.19.2
+	   |-- fabric-api-base 0.4.15+8f4e8eb390
+	   |-- fabric-api-lookup-api-v1 1.6.14+93d8cb8290
+	   |-- fabric-biome-api-v1 9.1.1+16f1e31390
+	   |-- fabric-block-api-v1 1.0.2+e415d50e90
+	   |-- fabric-blockrenderlayer-v1 1.1.25+cafc6e8e90
+	   |-- fabric-client-tags-api-v1 1.0.5+b35fea8390
+	   |-- fabric-command-api-v1 1.2.16+f71b366f90
+	   |-- fabric-command-api-v2 2.2.1+413cbbc790
+	   |-- fabric-commands-v0 0.2.33+df3654b390
+	   |-- fabric-containers-v0 0.1.42+df3654b390
+	   |-- fabric-content-registries-v0 3.5.2+7c6cd14d90
+	   |-- fabric-convention-tags-v1 1.3.0+4bc6e26290
+	   |-- fabric-crash-report-info-v1 0.2.8+aeb40ebe90
+	   |-- fabric-data-generation-api-v1 5.3.9+413cbbc790
+	   |-- fabric-dimensions-v1 2.1.35+0d0f210290
+	   |-- fabric-entity-events-v1 1.5.4+9244241690
+	   |-- fabric-events-interaction-v0 0.4.34+562bff6e90
+	   |-- fabric-events-lifecycle-v0 0.2.36+df3654b390
+	   |-- fabric-game-rule-api-v1 1.0.24+b6b6abb490
+	   |-- fabric-item-api-v1 1.6.6+b7d1888890
+	   |-- fabric-item-groups-v0 0.3.39+9244241690
+	   |-- fabric-key-binding-api-v1 1.0.25+5c4fce2890
+	   |-- fabric-keybindings-v0 0.2.23+df3654b390
+	   |-- fabric-lifecycle-events-v1 2.2.4+1b46dc7890
+	   |-- fabric-loot-api-v2 1.1.13+83a8659290
+	   |-- fabric-loot-tables-v1 1.1.16+9e7660c690
+	   |-- fabric-message-api-v1 5.0.7+93d8cb8290
+	   |-- fabric-mining-level-api-v1 2.1.24+33fbc73890
+	   |-- fabric-models-v0 0.3.21+c6af733c90
+	   |-- fabric-networking-api-v1 1.2.12+def3f86d90
+	   |-- fabric-networking-v0 0.3.29+df3654b390
+	   |-- fabric-object-builder-api-v1 4.2.2+d8ef690890
+	   |-- fabric-particles-v1 1.1.0+ee641e7390
+	   |-- fabric-recipe-api-v1 1.0.2+413cbbc790
+	   |-- fabric-registry-sync-v0 0.9.33+9244241690
+	   |-- fabric-renderer-api-v1 1.2.1+1adbf27790
+	   |-- fabric-renderer-indigo 0.8.0+1adbf27790
+	   |-- fabric-renderer-registries-v1 3.2.25+df3654b390
+	   |-- fabric-rendering-data-attachment-v1 0.3.19+6e0787e690
+	   |-- fabric-rendering-fluids-v1 3.0.11+4d0d570390
+	   |-- fabric-rendering-v0 1.1.28+df3654b390
+	   |-- fabric-rendering-v1 1.13.0+526f2c6790
+	   |-- fabric-resource-conditions-api-v1 2.1.2+aae9039d90
+	   |-- fabric-resource-loader-v0 0.8.4+edbdcddb90
+	   |-- fabric-screen-api-v1 1.0.32+4d0d570390
+	   |-- fabric-screen-handler-api-v1 1.3.8+1cc24b1b90
+	   |-- fabric-sound-api-v1 1.0.2+c4f28df590
+	   |-- fabric-textures-v0 1.0.24+aeb40ebe90
+	   |-- fabric-transfer-api-v1 2.1.6+413cbbc790
+	   \-- fabric-transitive-access-wideners-v1 1.3.3+08b73de490
+	- fabric-language-kotlin 1.13.1+kotlin.2.1.10
+	   |-- org_jetbrains_kotlin_kotlin-reflect 2.1.10
+	   |-- org_jetbrains_kotlin_kotlin-stdlib 2.1.10
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk7 2.1.10
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk8 2.1.10
+	   |-- org_jetbrains_kotlinx_atomicfu-jvm 0.27.0
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm 1.10.1
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8 1.10.1
+	   |-- org_jetbrains_kotlinx_kotlinx-datetime-jvm 0.6.1
+	   |-- org_jetbrains_kotlinx_kotlinx-io-bytestring-jvm 0.6.0
+	   |-- org_jetbrains_kotlinx_kotlinx-io-core-jvm 0.6.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm 1.8.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm 1.8.0
+	   \-- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm 1.8.0
+	- fabricloader 0.16.10
+	   \-- mixinextras 0.4.1
+	- farmersdelight 1.19.2-1.3.10.2
+	- farmersknives 2.4.1
+	- farmersrespite 2.2.5
+	   \-- porting_lib 2.1.815+1.19.2
+	        \-- serialization_hooks 0.3.26
+	- fdjei 1.0.1
+	- forgeconfigapiport 4.2.11
+	- fusion 1.2.4
+	- geckolib3 3.1.40
+	   \-- com_eliotlash_mclib_mclib 20
+	- jade 8.7.3
+	- java 17
+	- jei 11.6.0.1019
+	- jeresources 1.2.3.243
+	- justenoughprofessions 2.0.2
+	- mcwbridges 3.0.0
+	- mcwdoors 1.1.2
+	- mcwfences 1.1.2
+	- mcwfurnitures 3.3.0
+	- mcwlights 1.1.1
+	- mcwpaintings 1.0.5
+	- mcwpaths 1.0.5
+	- mcwroofs 2.3.1
+	- mcwstairs 1.0.1
+	- mcwtrpdoors 1.1.4
+	- mcwwindows 2.3.0
+	- minecraft 1.19.2
+	- modpack-update-checker 0.15.4
+	   \-- mpuc_lavendermd 0.1.2
+	- moredelight 25.1.13-1.19-fabric
+	- moremobvariants 1.0.1
+	- mousetweaks 2.22
+	- nethersdelight 1.0.1
+	   \-- disable_custom_worlds_advice 3.0
+	- oceansdelight fabric-1.0.2-1.19.2
+	- origins 1.7.1
+	   |-- apoli 2.6.1
+	   |    |-- additionalentityattributes 1.0.0+1.19
+	   |    |-- calio 1.7.0
+	   |    \-- playerabilitylib 1.6.0
+	   \-- reach-entity-attributes 2.3.0
+	- patchouli 1.19.2-77-FABRIC
+	   \-- fiber 0.23.0-2
+	- pehkui 3.8.3+1.14.4-1.21
+	   \-- kanos_config 0.4.1+1.14.4-1.19.4
+	- player-animator 1.0.2
+	- puzzleslib 4.4.3
+	   |-- cardinal-components-base 5.0.2
+	   |-- cardinal-components-block 5.0.2
+	   |-- cardinal-components-chunk 5.0.2
+	   |-- cardinal-components-entity 5.0.2
+	   \-- cardinal-components-world 5.0.2
+	- railways 1.6.4+fabric-mc1.19.2
+	   \-- mm 2.3
+	- rechiseled 1.1.6
+	- rechiseledcreate 1.0.2+a
+	- resourcefulconfig 1.0.20
+	- resourcefullib 1.1.24
+	- respitecreators 1.2.0
+	- simplyswords 1.47.0-1.19.2
+	- sliceanddice 2.6.1
+	- sodium 0.4.4+build.18
+	   \-- org_joml_joml 1.10.4
+	- storagedelight 24.12.15-1.19-fabric
+	- supermartijn642configlib 1.1.8+a
+	- supermartijn642corelib 1.1.18+a
+	- t_and_t 1.9
+	- terrablender 2.0.1.136
+	- treechop 0.19.1
+	- trinkets 3.4.2
+	- valkyrienskies 2.1.2-beta.1
+	- visualworkbench 4.2.4
+	- vs_clockwork 1.19.2-0.1.13-fabric-4621aeec07
+	- watut 1.19.2-1.0.14
+	- xaerominimap 25.1.0
+	- xaeroworldmap 1.39.2
+	- yet-another-config-lib 2.2.0-for-1.19.2
+[11:43:10] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/seer-admin/curseforge/minecraft/Install/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=CLIENT
+[11:43:10] [main/INFO]: Compatibility level set to JAVA_17
+[11:43:10] [main/WARN]: Reference map 'coroutil.refmap.json' for coroutil_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:43:10] [main/WARN]: Reference map 'create-dyn-light-common-refmap.json' for createdynlight.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:43:10] [main/WARN]: Reference map 'Estrogen-fabric-refmap.json' for estrogen.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:43:10] [main/WARN]: Reference map 'JustEnoughResources-Fabric-1.19.2-refmap.json' for jeresources.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:43:10] [main/WARN]: Reference map 'JustEnoughProfessions-fabric-1.19.2-refmap.json' for justenoughprofessions.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:43:10] [main/WARN]: Reference map 'NethersDelight-refmap.json' for nethersdelight.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:43:10] [main/WARN]: Reference map 'oceansdelight-refmap.json' for oceansdelight.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:43:10] [main/WARN]: Reference map 'rechiseledcreate.mixins.refmap.json' for rechiseledcreate.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:43:10] [main/WARN]: Reference map 'simplyswords-common-refmap.json' for simplyswords-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:43:10] [main/INFO]: Loaded configuration file for Sodium: 29 options available, 0 override(s) found
+[11:43:10] [main/WARN]: Reference map 'supermartijn642configlib.mixins.refmap.json' for supermartijn642configlib.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:43:10] [main/WARN]: Reference map 'clockwork-fabric-refmap.json' for vs_clockwork.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:43:10] [main/WARN]: Error loading class: link/infra/indium/renderer/helper/GeometryHelper (java.lang.ClassNotFoundException: link/infra/indium/renderer/helper/GeometryHelper)
+[11:43:11] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/BlockOcclusionCache (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/BlockOcclusionCache)
+[11:43:11] [main/WARN]: Error loading class: nourl/mythicmetals/abilities/Abilities (java.lang.ClassNotFoundException: nourl/mythicmetals/abilities/Abilities)
+[11:43:11] [main/WARN]: @Mixin target nourl.mythicmetals.abilities.Abilities was not found simplyswords.mixins.json:MythicMetalsAbilityMixin from mod simplyswords
+[11:43:11] [main/WARN]: Error loading class: nourl/mythicmetals/MythicMetals (java.lang.ClassNotFoundException: nourl/mythicmetals/MythicMetals)
+[11:43:11] [main/WARN]: @Mixin target nourl.mythicmetals.MythicMetals was not found simplyswords.mixins.json:MythicMetalsInitMixin from mod simplyswords
+[11:43:11] [main/WARN]: Error loading class: dev/latvian/mods/kubejs/recipe/RecipesEventJS (java.lang.ClassNotFoundException: dev/latvian/mods/kubejs/recipe/RecipesEventJS)
+[11:43:11] [main/WARN]: @Mixin target dev.latvian.mods.kubejs.recipe.RecipesEventJS was not found sliceanddice.mixins.json:RecipeEventJSMixin from mod sliceanddice
+[11:43:11] [main/WARN]: Error loading class: rbasamoyai/createbigcannons/cannon_control/contraption/PitchOrientedContraptionEntity (java.lang.ClassNotFoundException: rbasamoyai/createbigcannons/cannon_control/contraption/PitchOrientedContraptionEntity)
+[11:43:11] [main/WARN]: Error loading class: dev/ftb/mods/ftbchunks/data/ClaimedChunkManager (java.lang.ClassNotFoundException: dev/ftb/mods/ftbchunks/data/ClaimedChunkManager)
+[11:43:11] [main/WARN]: Error loading class: com/sonicether/soundphysics/SoundPhysics (java.lang.ClassNotFoundException: com/sonicether/soundphysics/SoundPhysics)
+[11:43:11] [main/WARN]: Error loading class: dan200/computercraft/shared/peripheral/speaker/SpeakerPosition (java.lang.ClassNotFoundException: dan200/computercraft/shared/peripheral/speaker/SpeakerPosition)
+[11:43:11] [main/WARN]: Error loading class: dan200/computercraft/shared/turtle/core/TurtleBrain (java.lang.ClassNotFoundException: dan200/computercraft/shared/turtle/core/TurtleBrain)
+[11:43:11] [main/WARN]: Error loading class: dan200/computercraft/shared/turtle/core/TurtleMoveCommand (java.lang.ClassNotFoundException: dan200/computercraft/shared/turtle/core/TurtleMoveCommand)
+[11:43:11] [main/WARN]: Error loading class: dan200/computercraft/shared/peripheral/modem/wireless/WirelessNetwork (java.lang.ClassNotFoundException: dan200/computercraft/shared/peripheral/modem/wireless/WirelessNetwork)
+[11:43:12] [main/INFO]: Starting Essential Loader (stage2) version 1.6.3 (efcb6b821a2b6aca3ad9fdfcd01c8ae1) [stable]
+[11:43:12] [main/INFO]: Downloading 53280KB of updates...
+[11:43:12] [main/INFO]: 1KB / 53280KB (0%)
+[11:43:12] [main/INFO]: Found newer Essential version 1.3.5.7 [stable]
+[11:43:13] [main/INFO]: Starting Essential v1.3.5.6 (#d3b089a061) [stable]
+[11:43:13] [main/INFO]: Java: OpenJDK 64-Bit Server VM (v17.0.8) by Microsoft (Microsoft)
+[11:43:13] [main/INFO]: Java Path: C:\Users\seer-admin\curseforge\minecraft\Install\runtime\java-runtime-gamma\windows-x64\java-runtime-gamma\bin
+[11:43:13] [main/INFO]: Java Info: mixed mode
+[11:43:13] [main/INFO]: JVM Arguments: 
+  - -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump
+  - -Dos.name=Windows 10
+  - -Dos.version=10.0
+  - -Xss1M
+  - -Djava.library.path=C:\Users\seer-admin\curseforge\minecraft\Install\bin\8295c59d12e0b9dab6daa5bf8084584cb752ecc4
+  - -Dminecraft.launcher.brand=minecraft-launcher
+  - -Dminecraft.launcher.version=3.7.29
+  - -DFabricMcEmu= net.minecraft.client.main.Main 
+  - -Xmx16000m
+  - -Xms256m
+  - -Dminecraft.applet.TargetDirectory=C:\Users\seer-admin\curseforge\minecraft\Instances\Fanciful Farming
+  - -Dfml.ignorePatchDiscrepancies=true
+  - -Dfml.ignoreInvalidMinecraftCertificates=true
+  - -Duser.language=en
+  - -Duser.country=US
+  - -DlibraryDirectory=C:\Users\seer-admin\curseforge\minecraft\Install\libraries
+  - -Dlog4j.configurationFile=C:\Users\seer-admin\curseforge\minecraft\Install\assets\log_configs\client-1.12.xml
+[11:43:13] [main/INFO]: OS: Windows 10 (v10.0) (Arch: amd64)
+[11:43:13] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[11:43:13] [main/WARN]: Failed to add PDH Counter: \Paging File(_Total)\% Usage, Error code: 0xC0000BB8
+[11:43:13] [main/WARN]: Failed to add counter for PDH counter: \Paging File(_Total)\% Usage
+[11:43:13] [main/WARN]: Disabling further attempts to query Paging File.
+[11:43:15] [main/WARN]: COM exception: Invalid Query: SELECT PERCENTUSAGE FROM Win32_PerfRawData_PerfOS_PagingFile
+[11:43:15] [main/WARN]: Method overwrite conflict for isStencilEnabled in mixins.essential.json:client.shader.MixinFramebuffer from mod (unknown), previously written by io.github.fabricators_of_create.porting_lib.mixin.client.RenderTargetMixin. Skipping method.
+[11:43:16] [main/WARN]: Method overwrite conflict for setTranslation in flywheel.fabric.mixins.json:Matrix4fMixin from mod flywheel, previously written by io.github.fabricators_of_create.porting_lib.mixin.common.Matrix4fMixin. Skipping method.
+[11:43:17] [main/INFO]: Building optimized datafixer
